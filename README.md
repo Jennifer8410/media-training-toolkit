@@ -17,9 +17,10 @@ Copy/paste any template and adapt for your industry and audience.
 Jennifer Goldstein  
 Website: https://jennifergoldstein.my.canva.site/jgmediaconsultinggroup  
 LinkedIn: https://www.linkedin.com/in/jennifer-goldstein-50a566315
+
 ## Templates
 - [Message Map Template](templates/Message-Map-Template.md)
 - [On-Camera Prep Checklist](templates/On-Camera-Prep-Checklist.md)
-
+  
 ## Examples
 (Coming soon)
